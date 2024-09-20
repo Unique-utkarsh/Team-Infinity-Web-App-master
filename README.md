@@ -1,7 +1,7 @@
-# Team-Infinity-Web-App
+# Team-unique-scrappers-Web-App
 
-## Team Infinity's Official Web Application 
+## Team unique-scrappers Official Web Application 
 
 
-### Deployed on- https://infinity-webapp.netlify.app/
+
  
